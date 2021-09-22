@@ -18,6 +18,7 @@ Many teams prefer to define their build and release pipelines using YAML (YAML A
 ### Prerequisites ###
 
 - This lab requires you to complete task 1 from the [prerequisite instructions](../prereq).
+- **If you are using different subscriptions for Azure resources and DevOps pipelines**, Please create a service connection by following the steps mentioned here https://sabirmohamed.com/how-to-create-a-service-connection-in-the-azure-devops/
 
 The following image will walk you through all the steps explained in this lab
 
