@@ -7,10 +7,6 @@
 
 - This lab requires you to complete task 1 from the [prerequisite instructions](../prereq).
 - **If you are using different subscriptions for Azure resources and DevOps pipelines**, Please create a service connection by following the steps mentioned here https://sabirmohamed.com/how-to-create-a-service-connection-in-the-azure-devops/
-
-The following image will walk you through all the steps explained in this lab
-
- ![](images/YAML-pipeline-workflow.gif)
  
 <a name="Exercise1"></a>
 ## Exercise 1: Configuring CI/CD Pipelines as Code with YAML in Azure DevOps ##
