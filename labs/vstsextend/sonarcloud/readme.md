@@ -8,27 +8,6 @@ folder: /labs/vstsextend/sonarcloud/
 
 <div class="rw-ui-container"></div>
 
-## Overview
-
-[SonarCloud](https://about.sonarcloud.io/){:target="\_blank"} is a cloud-based code quality and security service.
-The main features of SonarCloud are:
-
-- 23 languages: Java, JS, C#, C/C++, Objective-C, TypeScript, Python, ABAP, PLSQL, T-SQL and more.
-- Thousands of rules to track down hard-to-find bugs and quality issues thanks to powerful static code analyzers.
-- Cloud CI Integrations, with Travis, Azure DevOps, BitBucket, AppVeyor and more.
-- Deep code analysis, to explore all source files, whether in branches or pull requests, to reach a green Quality Gate and promote the build.
-- Fast and Scalable
-
-<div class="bg-slap"><img src="./images/mslearn.png" class="img-icon-cloud" alt="MS teams" style="width: 48px; height: 48px;">Want additional learning? Check out the <a href="https://docs.microsoft.com/en-us/learn/modules/scan-for-vulnerabilities/" target="_blank"><b><u> Scan code for vulnerabilities in Azure Pipelines</u></b></a> module on Microsoft Learn.</div>
-
-### What's covered in this lab
-
-In this lab, you will learn how to integrate Azure DevOps Services with SonarCloud:
-
-- Setup an Azure DevOps project and CI build to integrate with SonarCloud
-- Analyze SonarCloud reports
-- Integrate static analysis into the Azure DevOps pull request process
-
 ### Prerequisites for the lab
 
 1. You will need a Microsoft account.
