@@ -16,7 +16,13 @@ Azure DevOps integration with WhiteSource Bolt will enable you to:
 
 ## Exercise 1: Activate WhiteSource Bolt
 
-In your Azure DevOps Project, under **Pipelines** section, go to **PartsUnlimitedt** build pipeline and edit it.Add the **whitesource bolt** task and save the yaml file.
+1. In your Azure DevOps Project, under **Pipelines** section, go to **PartsUnlimitedt** build pipeline.
+2. In the **Pipelines** edit page, from the right side, click Show assistant. The Tasks sidebar is displayed.
+3. In the search bar, enter whitesource. The WhiteSource task is displayed.
+4. Click the WhiteSource task.
+5. From the bottom right corner, click Add. The WhiteSource task is added to the pipeline.
+ 
+ - task: whitesource.WhiteSource-azure-devops-services.bolt.wss.WhiteSource@21
 
 ![Dev_Essentials](images/whitesource.png)
 
@@ -25,8 +31,6 @@ In your Azure DevOps Project, under **Pipelines** section, go to **PartsUnlimite
 
 
 1. Go to **Pipelines** section under **Pipelines** tab, select the build definition **PartsUnlimited** and click on **Run pipeline** to trigger a build. Click **Run** (leave defaults).
-
-   ![build-def](images/run.png)
 
 
 1. Navigate to **WhiteSource Bolt Build Report** tab  and wait for the report generation of the completed build to see the vulnerability report.
