@@ -12,9 +12,7 @@ Azure DevOps integration with WhiteSource Bolt will enable you to:
 
 ### Before you begin
 
-1. Refer the [Getting Started](../Setup/) page before you follow the exercises.
-
-1. Use [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/?name=WhiteSource-Bolt&templateid=77362){:target="_blank"} to provision the WhiteSource project on your Azure DevOps Organization.
+1.Use https://marketplace.visualstudio.com/items?itemName=whitesource.whiteSource-bolt-v2 to provision the WhiteSource project on your Azure DevOps Organization.
 
 ## Exercise 1: Activate WhiteSource Bolt
 
