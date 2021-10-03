@@ -24,7 +24,7 @@ Azure DevOps integration with WhiteSource Bolt will enable you to:
  
  - task: whitesource.WhiteSource-azure-devops-services.bolt.wss.WhiteSource@21
 
-![Dev_Essentials](images/whitesource.png)
+![Dev_Essentials](images/whitesource.PNG)
 
 
 ## Exercise 2: Trigger a build
