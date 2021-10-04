@@ -149,7 +149,7 @@ With the classic editor, you can take advantage of the pre-defined templates tha
    ![guide](images/pipeline-guide3.png)
    ![task](images/task.png)
 
-   When you are done making the changes to the file, click **Save and Run**:
+  Please make sure that you have also added **SonarCloudAnalyze** and **SonarCloudPublish** (as added in [net-desktop-sonarcloud.yml](https://github.com/SonarSource/sonar-scanner-vsts/blob/master/yaml-pipeline-templates/net-desktop-sonarcloud.yml)) steps in the yaml file When you are done making the changes to the file, click **Save and Run**:
 
    ![Save and run YAML](images/azdo_yaml_save_run.png)
 
